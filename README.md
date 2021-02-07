@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/48644958/107149630-f91a5800-699c-11eb-8bb7-f7e84ad5bb46.png" height="50%" width="50%"></img><br>
 
-## 
+## 소개
 
 ### 행사 소개
 
@@ -48,13 +48,15 @@
 
 ## Application
 
-<img src="https://user-images.githubusercontent.com/48644958/107149664-2f57d780-699d-11eb-801c-fca98410e5b6.png" height="30%" width="30%"></img><br>
-
 ### 발표 영상
 
 > [영상 바로가기](https://www.youtube.com/watch?v=2HP40fnlzMI&feature=youtu.be)
 
-<img src="https://user-images.githubusercontent.com/48644958/107150530-92e40400-69a1-11eb-89ca-383c9a87910f.png" height="30%" width="30%"></img><br>
+<img src="https://user-images.githubusercontent.com/48644958/107149664-2f57d780-699d-11eb-801c-fca98410e5b6.png" height="30%" width="30%"></img><br>
+
+### 로고
+
+<img src="https://user-images.githubusercontent.com/48644958/107150530-92e40400-69a1-11eb-89ca-383c9a87910f.png" height="20%" width="20%"></img><br>
   
  ### 스플래시 & 로그인
  
@@ -63,7 +65,7 @@
 - Firebase에서 제공하는 authentication과 연동하여 Gmail로 로그인이 가능합니다.<br>
 - 로그인시, 닉네임을 설정할 수 있으며 이는 Shared preperence에 저장되어 사용됩니다.<br><br>
 
-<img src="https://user-images.githubusercontent.com/48644958/107149754-c91f8480-699d-11eb-958e-ec2fe1684a88.png" height="20%" width="20%"></img>
+<img src="https://user-images.githubusercontent.com/48644958/107149754-c91f8480-699d-11eb-958e-ec2fe1684a88.png" height="30%" width="30%"></img>
 
 ### 메인 화면
 
