@@ -49,9 +49,9 @@
 
 ## 발표 영상
 
-<img src="https://user-images.githubusercontent.com/48644958/107149664-2f57d780-699d-11eb-801c-fca98410e5b6.png" height="10%" width="10%"></img>(https://www.youtube.com/watch?v=2HP40fnlzMI&feature=youtu.be)<
+<img src="https://user-images.githubusercontent.com/48644958/107149664-2f57d780-699d-11eb-801c-fca98410e5b6.png" height="10%" width="10%"></img><br>
 
->클릭시 이동합니다.
+> [영상 바로가기](https://www.youtube.com/watch?v=2HP40fnlzMI&feature=youtu.be)
 
 ## Application
 
