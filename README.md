@@ -61,7 +61,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/48644958/107150530-92e40400-69a1-11eb-89ca-383c9a87910f.png" height="30%" width="30%"></img>
 <img src="https://user-images.githubusercontent.com/48644958/107149710-8067cb80-699d-11eb-91df-3cae330b382e.png" height="30%" width="30%"></img><br>
-</div>
+</div><br>
  
 - Firebase에서 제공하는 authentication과 연동하여 Gmail로 로그인이 가능합니다.<br>
 - 로그인시, 닉네임을 설정할 수 있으며 이는 Shared preperence에 저장되어 사용됩니다.<br><br>
@@ -71,7 +71,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/48644958/107149754-c91f8480-699d-11eb-958e-ec2fe1684a88.png" height="30%" width="30%"></img>
 <img src="https://user-images.githubusercontent.com/48644958/107149809-20255980-699e-11eb-8a30-70da794b35fb.png" height="30%" width="30%"></img><br>
-</div>
+</div><br>
 
 - Google Map API를 사용하여 지도를 표현하였고, GPS 기반으로 현재 자신의 위치를 보여줍니다.<br>
 - 자신의 주변에서 게시된 글을 카테고리별 아이콘으로 구분하여 보여주고, 이를 클릭하면 해당 내용 확인 및 이동이 가능합니다.<br><br>
@@ -88,7 +88,7 @@
 <div>
 <img src="https://user-images.githubusercontent.com/48644958/107149828-44813600-699e-11eb-8539-42439ec31d98.png" height="30%" width="30%"></img>
 <img src="https://user-images.githubusercontent.com/48644958/107149895-8a3dfe80-699e-11eb-89ef-c8cdfd426fba.png" height="30%" width="30%"></img><br>
-</div>
+</div><br>
 
 - 사용자가 올린 게시글을 볼 수 있으며, Firebase 서버를 통해 실시간으로 댓글이 입력되는 것을 볼 수 있습니다.<br>
 - 카테고리별로 게시글을 분류하여 작성할 수 있습니다.<br><br>
