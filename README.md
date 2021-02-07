@@ -50,11 +50,9 @@
 
 ### 발표 영상
 
+<img src="https://user-images.githubusercontent.com/48644958/107149664-2f57d780-699d-11eb-801c-fca98410e5b6.png" height="10%" width="10%"></img><br>
 > [영상 바로가기](https://www.youtube.com/watch?v=2HP40fnlzMI&feature=youtu.be)
 
-<img src="https://user-images.githubusercontent.com/48644958/107149664-2f57d780-699d-11eb-801c-fca98410e5b6.png" height="10%" width="10%"></img><br>
-
-### 로고
 
 <img src="https://user-images.githubusercontent.com/48644958/107150530-92e40400-69a1-11eb-89ca-383c9a87910f.png" height="30%" width="30%"></img><br>
   
