@@ -1,8 +1,8 @@
-# WEat 프로젝트
+# WEat 프로젝트<br>
 
 <img src="https://user-images.githubusercontent.com/48644958/107149630-f91a5800-699c-11eb-8bb7-f7e84ad5bb46.png" height="50%" width="50%"></img><br>
 
-##소개
+## 
 
 ### 행사 소개
 
